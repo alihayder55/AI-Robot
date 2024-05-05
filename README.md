@@ -18,11 +18,11 @@ This research paper introduces a robot created to assist in search and rescue mi
 The functionality of this robot will be explained through the diagrams and tools used to create it. The processing method that takes place within the TPU, which is the robot's brain or controller, will also be described.
 
 ### Figures
-1. Insert Figure 1: [architecture of the project]
-![Figure 1](Fig/General architecture of the project.png)
+1. **Architecture of the Project**  
+   ![Figure 1](Fig/General architecture of the project.png)
 
-2. Insert Figure 2: [How to process internal images]
-![Figure 2](Fig/How to process internal images.png)
+2. **How to Process Internal Images**  
+   ![Figure 2](Fig/How to process internal images.png)
 
-3. Insert Figure 3: [Physical components of the robot]
-![Figure 3](Fig/Physical components of the robot.png)
+3. **Physical Components of the Robot**  
+   ![Figure 3](Fig/Physical components of the robot.png)
