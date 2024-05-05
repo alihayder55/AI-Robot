@@ -22,7 +22,10 @@ The functionality of this robot will be explained through the diagrams and tools
    ![General architecture of the project](https://github.com/alihayder55/AI-Robot/assets/156635408/3802a6df-c959-4461-baaa-f644feea3ddc)
 
 2. **How to Process Internal Images**  
-   ![Figure 2](Fig/How to process internal images.png)
+   ![How to process internal images](https://github.com/alihayder55/AI-Robot/assets/156635408/c63b7e5a-e690-4f3e-8e08-6e2602a0ec1f)
+
 
 3. **Physical Components of the Robot**  
-   ![Figure 3](Fig/Physical components of the robot.png)
+   
+![Physical components of the robot](https://github.com/alihayder55/AI-Robot/assets/156635408/cd952fd9-9214-4b95-8b6a-83fabaa9fb2b)
+
