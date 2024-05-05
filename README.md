@@ -19,7 +19,7 @@ The functionality of this robot will be explained through the diagrams and tools
 
 ### Figures
 1. **Architecture of the Project**  
-   ![Figure 1](Fig/General architecture of the project.png)
+   ![General architecture of the project](https://github.com/alihayder55/AI-Robot/assets/156635408/3802a6df-c959-4461-baaa-f644feea3ddc)
 
 2. **How to Process Internal Images**  
    ![Figure 2](Fig/How to process internal images.png)
