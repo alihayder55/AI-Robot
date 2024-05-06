@@ -1,5 +1,7 @@
 # Exploration Robot using Artificial Intelligence
 
+![image](https://github.com/alihayder55/AI-Robot/assets/156635408/3776bac0-5b2d-4cad-9b47-443b4dbeb47d)
+
 ## Abstract
 This research paper introduces a robot created to assist in search and rescue missions, particularly in disaster-stricken areas following events such as earthquakes, floods, or conflicts. Conventional search methods often fall short or pose risks when trying to locate survivors trapped under collapsed structures. This robot, powered by AI, tackles this challenge by blending control with a compact agile design. Its small stature enables it to maneuver through spaces and gaps amid the debris where survivors are typically located. With a camera and sophisticated AI algorithms onboard, the robot can identify signs of life like movement, heat signals, or even faint noises. This leads to an enhancement in the effectiveness and safety of search and rescue efforts compared to excavation or depending solely on visual scans. The upcoming sections of this report will delve into the robot's design and development process, delving into its capabilities and the specific AI methods utilized. We will discuss the impact of this technology in saving lives during disasters and promoting rescue missions for first responders.
 
