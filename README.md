@@ -33,3 +33,9 @@ The functionality of this robot will be explained through the diagrams and tools
    
 ![Physical components of the robot](https://github.com/alihayder55/AI-Robot/assets/156635408/cd952fd9-9214-4b95-8b6a-83fabaa9fb2b)
 
+
+
+
+
+![image](https://github.com/alihayder55/AI-Robot/assets/156635408/1197606a-5d9e-4aab-b562-a81c819f0601)
+
